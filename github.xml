@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="31632184-86a1-4d8a-b774-6400ab6e1dfe" name="livwil@talk21.com">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="livwil@talk21.com" />
     <option name="AUTH_TYPE" value="BASIC" />
